@@ -6,8 +6,11 @@
 
 ### What is this?
 
-* This is a lab assignments taken from my course on Programming Systems with [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/2e/labs.html) text book in use.  
+* This is lab assignments taken from my course on Programming Systems with [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/2e/labs.html) text book in use.  
 * The purpose of this lab assignment is to familiarize yourself with machine-level programs and the tools that you can use to understand them. You will do this by defusing a Binary Bomb produced by Dr. Evil, a nefarious Canadian.
+* __I take no credit on making this possible__ All credit goes to those people who have written the books.
+
+============
 
 ### But why ? 
 
@@ -18,6 +21,8 @@ It is so hard at first that I almost cry solving this. However, by solving this 
 > At the end of the series you would've seen how several aspects of a C program are represented in machine code, for example: local variables, registers, conditionals, loops, switch statements, arrays, recursion, structs, etc.    
 
 __Also, this is not where you find solutions to your homework if you are taking an equivalent course at your College, or happen to come accross here by Google search. This is where I provide you with numerous bombs to challenge you. This is not made to compromise the value of the exercise for both instructors and students using CS:APP.__
+
+=============
 
 ## Instruction
 
