@@ -1,0 +1,52 @@
+When a problem comes along, you must zip it!
+2 3 5 8 12 17
+1 860
+40 2
+5 115
+6 2 5 3 4 1 
+
+
+
+Solution :
+
+1. When a problem comes along, you must zip it!
+
+2. a[0] = x
+   a[i] = a[i-1]+i
+   6 numbers
+
+3. 7 945
+   6 957
+   5 421
+   4 421
+   3 855
+   2 421
+   1 860
+   0 770
+
+4. 80 4
+   60 3
+   40 2
+
+5. const[16] = {10, 2, 14, 7, 8, 12, 15, 11, 0, 4, 1, 13, 3, 9, 6, 5}
+		0   1  2   3  4  5   6   7   8  9 10  11 12 13  14 15
+	Run these code 15 times, at the time of 15th, eax must be 15 : (ecx = 0 at begin)
+		eax = const[eax];
+		ecx += eax;
+	=> Answer : eax (at begin), ecx (at end)
+
+
+Codes :
+
+gdb bomb
+run < sol
+b phase_x
+run
+disas
+b functionname
+disas
+info r => register info
+x/s xxx => get string data at address ***
+x/d xxx => get int date at address ***
+ni => run step by step
+until *xxx => step to address xxx
