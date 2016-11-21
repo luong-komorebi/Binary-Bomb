@@ -8,7 +8,7 @@
 
 * This is lab assignments taken from my course on Programming Systems with [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/2e/labs.html) text book in use.  
 * The purpose of this lab assignment is to familiarize yourself with machine-level programs and the tools that you can use to understand them. You will do this by defusing a Binary Bomb produced by Dr. Evil, a nefarious Canadian.
-* __I take no credit on making this possible__ All credit goes to those people who have written the books.
+* __I take no credit on making this possible__ All credit goes to those people who have written the books. Some Solutions are my friends'
 
 ============
 
