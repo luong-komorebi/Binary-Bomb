@@ -37,6 +37,7 @@ In each of the folder, we have 3 files :
 1. bomb.c  `this is the bomb in C code`  
 2. bomb    `an executable file for you to run and debug from`  	
 3. solution.txt `me and my friend's solution to defuse the bomb`    
+4. Report folder `Explanation for solution in pdf file inside`
 
 You will need to take a look at the `bomb.c` .That file tells you that how they are making the bomb. Nevertheless, they hid the necessary source code for you to defuse the bomb, but leave you only the name of the phase that you need to by pass ( from phase_1 to phase\_6 ).  
 What you need to do is : **debug the code through the executable file bomb** using a debugger (**gdb**, or **IDA**).  It is crucial that you know how to use a debugger and understand **Assembly Code**.  
