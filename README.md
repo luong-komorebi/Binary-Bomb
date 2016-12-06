@@ -30,7 +30,9 @@ __Also, this is not where you find solutions to your homework if you are taking 
 Read the bomblab-instructions.pdf file. Skip step 1.  
 
 #### And my explanation
-You will see more than 30 folders with identical numbers (1551xxx). *Don't panic*. These numbers are my classmates' student IDs. **Each of the folder contains a unique bomb**. Although the solving technique is the same for all bombs, this was done to make sure no one can copy others' solutions. **It is therefore very good for you to pratice**.  
+You will see more than 30 folders with identical numbers (1551xxx). *Don't panic*. These numbers are my classmates' student IDs. **Each of the folder contains a unique bomb**. Although the solving technique is the same for all bombs, this was done to make sure no one can copy others' solutions. **It is therefore very good for you to pratice**.   
+
+My folder is 1551020. 
 
 In each of the folder, we have 3 files :  
 
